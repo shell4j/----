@@ -5,6 +5,6 @@
 
 * sql文件保存毕业论文的5708条数据，采用MySQL数据库存储，默认字段的属性为String。
 
-* python代码采用包为，网址为 http://scikit-learn.org/stable/。
+* python代码采用包为scikitlearn，网址为 http://scikit-learn.org/stable/。
 
 * 详细代码已略去。
